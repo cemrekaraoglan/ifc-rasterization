@@ -2,3 +2,276 @@
 03:29:41 INFO:Running IFC Voxelizer
 03:30:09 INFO:Running IFC Voxelizer
 03:30:23 INFO:Running IFC Voxelizer
+01:32:42 INFO:Running IFC Voxelizer
+01:32:47 INFO:awaiting runner setup
+01:32:47 INFO:awaiting site startup
+01:32:47 INFO:Print WSLINK_READY_MSG
+01:32:47 INFO:Schedule auto shutdown with timout 0
+01:32:47 INFO:awaiting running future
+01:32:48 INFO:127.0.0.1 [06/Sep/2023:11:32:48 +0000] "GET /index.html?ui=P_0x18613773ac0_0&reconnect=auto HTTP/1.1" 200 236 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+01:32:48 INFO:127.0.0.1 [06/Sep/2023:11:32:48 +0000] "GET /vue.global.js HTTP/1.1" 200 253 "http://localhost:56956/index.html?ui=P_0x18613773ac0_0&reconnect=auto" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+01:32:48 INFO:127.0.0.1 [06/Sep/2023:11:32:48 +0000] "GET /css/app.0b077e70.css HTTP/1.1" 200 235 "http://localhost:56956/index.html?ui=P_0x18613773ac0_0&reconnect=auto" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+01:32:48 INFO:127.0.0.1 [06/Sep/2023:11:32:48 +0000] "GET /js/chunk-vendors.b42af71c.js HTTP/1.1" 200 253 "http://localhost:56956/index.html?ui=P_0x18613773ac0_0&reconnect=auto" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+01:32:48 INFO:127.0.0.1 [06/Sep/2023:11:32:48 +0000] "GET /js/app.93852572.js HTTP/1.1" 200 251 "http://localhost:56956/index.html?ui=P_0x18613773ac0_0&reconnect=auto" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+01:32:48 INFO:127.0.0.1 [06/Sep/2023:11:32:48 +0000] "POST /paraview/ HTTP/1.1" 405 208 "http://localhost:56956/index.html?ui=P_0x18613773ac0_0&reconnect=auto" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+01:32:48 INFO:client 06043c219d914fce9a43470e2e4c145d connected
+01:32:48 INFO:127.0.0.1 [06/Sep/2023:11:32:48 +0000] "GET /__trame_vuetify/trame-vuetify.css HTTP/1.1" 200 239 "http://localhost:56956/index.html?ui=P_0x18613773ac0_0&reconnect=auto" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+01:32:49 INFO:127.0.0.1 [06/Sep/2023:11:32:48 +0000] "GET /__trame_vuetify/trame-vuetify.umd.min.js HTTP/1.1" 200 253 "http://localhost:56956/index.html?ui=P_0x18613773ac0_0&reconnect=auto" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+01:32:49 INFO:127.0.0.1 [06/Sep/2023:11:32:48 +0000] "GET /__trame_vtk/trame-vtk.js HTTP/1.1" 200 255 "http://localhost:56956/index.html?ui=P_0x18613773ac0_0&reconnect=auto" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+01:32:49 INFO:127.0.0.1 [06/Sep/2023:11:32:49 +0000] "GET /__trame_vuetify/fonts/materialdesignicons-webfont.68358e87.woff2 HTTP/1.1" 200 255 "http://localhost:56956/__trame_vuetify/trame-vuetify.css" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+01:34:12 INFO:127.0.0.1 [06/Sep/2023:11:34:12 +0000] "GET /__trame_vuetify/fonts/roboto-latin-400.1e2d4d3a.woff2 HTTP/1.1" 200 253 "http://localhost:56956/__trame_vuetify/trame-vuetify.css" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+02:37:37 INFO:client 06043c219d914fce9a43470e2e4c145d disconnected
+02:37:37 INFO:No more connections, scheduling shutdown
+02:37:37 INFO:127.0.0.1 [06/Sep/2023:11:32:48 +0000] "GET /ws HTTP/1.1" 101 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+03:23:49 INFO:client 0ce2d8274abc4455955128b1b215afbc connected
+03:23:49 INFO:client 932259a6078f4e7e9eef040ed658ca07 connected
+03:23:49 INFO:client ceaa23afc8834f0ebbdfe24934397a80 connected
+03:23:49 INFO:client 4eedfe0e903a47f2ac0cfbb29ed5f8f0 connected
+03:48:55 INFO:client ceaa23afc8834f0ebbdfe24934397a80 disconnected
+03:48:55 INFO:127.0.0.1 [06/Sep/2023:13:23:49 +0000] "GET /ws HTTP/1.1" 101 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+03:48:55 INFO:client 932259a6078f4e7e9eef040ed658ca07 disconnected
+03:48:55 INFO:127.0.0.1 [06/Sep/2023:13:23:49 +0000] "GET /ws HTTP/1.1" 101 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+03:48:55 INFO:client 0ce2d8274abc4455955128b1b215afbc disconnected
+03:48:55 INFO:127.0.0.1 [06/Sep/2023:13:23:49 +0000] "GET /ws HTTP/1.1" 101 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+03:48:55 INFO:client 4eedfe0e903a47f2ac0cfbb29ed5f8f0 disconnected
+03:48:55 INFO:No more connections, scheduling shutdown
+03:48:55 INFO:127.0.0.1 [06/Sep/2023:13:23:49 +0000] "GET /ws HTTP/1.1" 101 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+03:48:56 INFO:127.0.0.1 [06/Sep/2023:13:48:56 +0000] "GET /index.html?ui=P_0x186137725f0_1&reconnect=auto HTTP/1.1" 200 236 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+03:48:56 INFO:127.0.0.1 [06/Sep/2023:13:48:56 +0000] "POST /paraview/ HTTP/1.1" 405 208 "http://localhost:56956/index.html?ui=P_0x186137725f0_1&reconnect=auto" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+03:48:56 INFO:client 62dc00f8b2d34c469362f7fc8448c687 connected
+03:51:59 INFO:client 62dc00f8b2d34c469362f7fc8448c687 disconnected
+03:51:59 INFO:No more connections, scheduling shutdown
+03:51:59 INFO:127.0.0.1 [06/Sep/2023:13:48:56 +0000] "GET /ws HTTP/1.1" 101 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+03:52:14 INFO:127.0.0.1 [06/Sep/2023:13:52:14 +0000] "GET /index.html?ui=P_0x1861adb1000_2&reconnect=auto HTTP/1.1" 200 236 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+03:52:14 INFO:127.0.0.1 [06/Sep/2023:13:52:14 +0000] "POST /paraview/ HTTP/1.1" 405 208 "http://localhost:56956/index.html?ui=P_0x1861adb1000_2&reconnect=auto" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+03:52:14 INFO:client a11c53fb678f46f68d245603eb0543dd connected
+03:55:09 INFO:Running IFC Voxelizer
+03:57:50 INFO:awaiting runner setup
+03:57:50 INFO:awaiting site startup
+03:57:50 INFO:Print WSLINK_READY_MSG
+03:57:50 INFO:Schedule auto shutdown with timout 0
+03:57:50 INFO:awaiting running future
+03:57:55 INFO:127.0.0.1 [06/Sep/2023:13:57:55 +0000] "GET /index.html?ui=P_0x18c44759210_1&reconnect=auto HTTP/1.1" 200 236 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+03:57:55 INFO:127.0.0.1 [06/Sep/2023:13:57:55 +0000] "GET /vue.global.js HTTP/1.1" 200 253 "http://localhost:57705/index.html?ui=P_0x18c44759210_1&reconnect=auto" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+03:57:55 INFO:127.0.0.1 [06/Sep/2023:13:57:55 +0000] "GET /css/app.0b077e70.css HTTP/1.1" 200 235 "http://localhost:57705/index.html?ui=P_0x18c44759210_1&reconnect=auto" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+03:57:55 INFO:127.0.0.1 [06/Sep/2023:13:57:55 +0000] "GET /js/chunk-vendors.b42af71c.js HTTP/1.1" 200 253 "http://localhost:57705/index.html?ui=P_0x18c44759210_1&reconnect=auto" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+03:57:55 INFO:127.0.0.1 [06/Sep/2023:13:57:55 +0000] "GET /js/app.93852572.js HTTP/1.1" 200 251 "http://localhost:57705/index.html?ui=P_0x18c44759210_1&reconnect=auto" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+03:57:55 INFO:127.0.0.1 [06/Sep/2023:13:57:55 +0000] "POST /paraview/ HTTP/1.1" 405 208 "http://localhost:57705/index.html?ui=P_0x18c44759210_1&reconnect=auto" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+03:57:55 INFO:client 94b25f7ec86a4a249f24dfa3f6ecd673 connected
+03:57:57 INFO:127.0.0.1 [06/Sep/2023:13:57:57 +0000] "GET /__trame_vuetify/trame-vuetify.css HTTP/1.1" 200 239 "http://localhost:57705/index.html?ui=P_0x18c44759210_1&reconnect=auto" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+03:57:57 INFO:127.0.0.1 [06/Sep/2023:13:57:57 +0000] "GET /__trame_vuetify/trame-vuetify.umd.min.js HTTP/1.1" 200 253 "http://localhost:57705/index.html?ui=P_0x18c44759210_1&reconnect=auto" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+03:57:57 INFO:127.0.0.1 [06/Sep/2023:13:57:57 +0000] "GET /__trame_vtk/trame-vtk.js HTTP/1.1" 200 255 "http://localhost:57705/index.html?ui=P_0x18c44759210_1&reconnect=auto" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+03:57:59 INFO:127.0.0.1 [06/Sep/2023:13:57:59 +0000] "GET /__trame_vuetify/fonts/materialdesignicons-webfont.68358e87.woff2 HTTP/1.1" 200 255 "http://localhost:57705/__trame_vuetify/trame-vuetify.css" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+03:57:59 INFO:127.0.0.1 [06/Sep/2023:13:57:59 +0000] "GET /__trame_vuetify/fonts/roboto-latin-400.1e2d4d3a.woff2 HTTP/1.1" 200 253 "http://localhost:57705/__trame_vuetify/trame-vuetify.css" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+03:59:27 INFO:client 94b25f7ec86a4a249f24dfa3f6ecd673 disconnected
+03:59:27 INFO:No more connections, scheduling shutdown
+03:59:27 INFO:127.0.0.1 [06/Sep/2023:13:57:55 +0000] "GET /ws HTTP/1.1" 101 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+04:01:11 INFO:127.0.0.1 [06/Sep/2023:14:01:11 +0000] "POST /paraview/ HTTP/1.1" 405 208 "http://localhost:57705/index.html?ui=P_0x18c44759210_1&reconnect=auto" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+04:01:11 INFO:client 8df3b284a647425b9d4f3d73276a3046 connected
+04:03:34 INFO:Running IFC Voxelizer
+04:10:54 INFO:Running IFC Voxelizer
+04:14:53 INFO:awaiting runner setup
+04:14:53 INFO:awaiting site startup
+04:14:53 INFO:Print WSLINK_READY_MSG
+04:14:53 INFO:Schedule auto shutdown with timout 0
+04:14:53 INFO:awaiting running future
+04:15:54 INFO:127.0.0.1 [06/Sep/2023:14:15:54 +0000] "GET /index.html?ui=P_0x174272854e0_0&reconnect=auto HTTP/1.1" 200 236 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+04:15:54 INFO:127.0.0.1 [06/Sep/2023:14:15:54 +0000] "GET /vue.global.js HTTP/1.1" 200 253 "http://localhost:57983/index.html?ui=P_0x174272854e0_0&reconnect=auto" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+04:15:54 INFO:127.0.0.1 [06/Sep/2023:14:15:54 +0000] "GET /css/app.0b077e70.css HTTP/1.1" 200 235 "http://localhost:57983/index.html?ui=P_0x174272854e0_0&reconnect=auto" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+04:15:54 INFO:127.0.0.1 [06/Sep/2023:14:15:54 +0000] "GET /js/chunk-vendors.b42af71c.js HTTP/1.1" 200 253 "http://localhost:57983/index.html?ui=P_0x174272854e0_0&reconnect=auto" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+04:15:54 INFO:127.0.0.1 [06/Sep/2023:14:15:54 +0000] "GET /js/app.93852572.js HTTP/1.1" 200 251 "http://localhost:57983/index.html?ui=P_0x174272854e0_0&reconnect=auto" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+04:15:54 INFO:127.0.0.1 [06/Sep/2023:14:15:54 +0000] "POST /paraview/ HTTP/1.1" 405 208 "http://localhost:57983/index.html?ui=P_0x174272854e0_0&reconnect=auto" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+04:15:54 INFO:client 859fe69dcd90480b832f58fd7ec09a10 connected
+04:16:04 INFO:127.0.0.1 [06/Sep/2023:14:16:04 +0000] "GET /__trame_vuetify/trame-vuetify.css HTTP/1.1" 200 239 "http://localhost:57983/index.html?ui=P_0x174272854e0_0&reconnect=auto" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+04:16:04 INFO:127.0.0.1 [06/Sep/2023:14:16:04 +0000] "GET /__trame_vtk/trame-vtk.js HTTP/1.1" 200 255 "http://localhost:57983/index.html?ui=P_0x174272854e0_0&reconnect=auto" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+04:16:04 INFO:127.0.0.1 [06/Sep/2023:14:16:04 +0000] "GET /__trame_vuetify/trame-vuetify.umd.min.js HTTP/1.1" 200 253 "http://localhost:57983/index.html?ui=P_0x174272854e0_0&reconnect=auto" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+04:16:20 INFO:127.0.0.1 [06/Sep/2023:14:16:20 +0000] "GET /__trame_vuetify/fonts/roboto-latin-400.1e2d4d3a.woff2 HTTP/1.1" 200 253 "http://localhost:57983/__trame_vuetify/trame-vuetify.css" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+04:16:20 INFO:127.0.0.1 [06/Sep/2023:14:16:20 +0000] "GET /__trame_vuetify/fonts/materialdesignicons-webfont.68358e87.woff2 HTTP/1.1" 200 255 "http://localhost:57983/__trame_vuetify/trame-vuetify.css" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+04:32:44 INFO:client 859fe69dcd90480b832f58fd7ec09a10 disconnected
+04:32:44 INFO:No more connections, scheduling shutdown
+04:32:44 INFO:127.0.0.1 [06/Sep/2023:14:15:54 +0000] "GET /ws HTTP/1.1" 101 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+03:52:47 INFO:Running IFC Voxelizer
+03:53:36 INFO:awaiting runner setup
+03:53:36 INFO:awaiting site startup
+03:53:36 INFO:Print WSLINK_READY_MSG
+03:53:36 INFO:Schedule auto shutdown with timout 0
+03:53:36 INFO:awaiting running future
+03:53:37 INFO:127.0.0.1 [07/Sep/2023:13:53:37 +0000] "GET /index.html?ui=P_0x1a024f11570_1&reconnect=auto HTTP/1.1" 200 236 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+03:53:37 INFO:127.0.0.1 [07/Sep/2023:13:53:37 +0000] "GET /vue.global.js HTTP/1.1" 200 253 "http://localhost:50196/index.html?ui=P_0x1a024f11570_1&reconnect=auto" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+03:53:37 INFO:127.0.0.1 [07/Sep/2023:13:53:37 +0000] "GET /css/app.0b077e70.css HTTP/1.1" 200 235 "http://localhost:50196/index.html?ui=P_0x1a024f11570_1&reconnect=auto" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+03:53:37 INFO:127.0.0.1 [07/Sep/2023:13:53:37 +0000] "GET /js/chunk-vendors.b42af71c.js HTTP/1.1" 200 253 "http://localhost:50196/index.html?ui=P_0x1a024f11570_1&reconnect=auto" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+03:53:37 INFO:127.0.0.1 [07/Sep/2023:13:53:37 +0000] "GET /js/app.93852572.js HTTP/1.1" 200 251 "http://localhost:50196/index.html?ui=P_0x1a024f11570_1&reconnect=auto" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+03:53:37 INFO:127.0.0.1 [07/Sep/2023:13:53:37 +0000] "POST /paraview/ HTTP/1.1" 405 208 "http://localhost:50196/index.html?ui=P_0x1a024f11570_1&reconnect=auto" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+03:53:38 INFO:client d381b90bba2b49efbef17b9e5c0e8429 connected
+03:53:38 INFO:127.0.0.1 [07/Sep/2023:13:53:38 +0000] "GET /__trame_vuetify/trame-vuetify.css HTTP/1.1" 200 239 "http://localhost:50196/index.html?ui=P_0x1a024f11570_1&reconnect=auto" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+03:53:38 INFO:127.0.0.1 [07/Sep/2023:13:53:38 +0000] "GET /__trame_vuetify/trame-vuetify.umd.min.js HTTP/1.1" 200 253 "http://localhost:50196/index.html?ui=P_0x1a024f11570_1&reconnect=auto" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+03:53:38 INFO:127.0.0.1 [07/Sep/2023:13:53:38 +0000] "GET /__trame_vtk/trame-vtk.js HTTP/1.1" 200 255 "http://localhost:50196/index.html?ui=P_0x1a024f11570_1&reconnect=auto" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+03:53:39 INFO:127.0.0.1 [07/Sep/2023:13:53:39 +0000] "GET /__trame_vuetify/fonts/roboto-latin-400.1e2d4d3a.woff2 HTTP/1.1" 200 253 "http://localhost:50196/__trame_vuetify/trame-vuetify.css" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+03:53:39 INFO:127.0.0.1 [07/Sep/2023:13:53:39 +0000] "GET /__trame_vuetify/fonts/materialdesignicons-webfont.68358e87.woff2 HTTP/1.1" 200 255 "http://localhost:50196/__trame_vuetify/trame-vuetify.css" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+03:54:45 INFO:client d381b90bba2b49efbef17b9e5c0e8429 disconnected
+03:54:45 INFO:No more connections, scheduling shutdown
+03:54:45 INFO:127.0.0.1 [07/Sep/2023:13:53:38 +0000] "GET /ws HTTP/1.1" 101 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+03:55:31 INFO:127.0.0.1 [07/Sep/2023:13:55:31 +0000] "GET /index.html?ui=P_0x1a026c83d60_2&reconnect=auto HTTP/1.1" 200 236 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+03:55:31 INFO:127.0.0.1 [07/Sep/2023:13:55:31 +0000] "POST /paraview/ HTTP/1.1" 405 208 "http://localhost:50196/index.html?ui=P_0x1a026c83d60_2&reconnect=auto" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+03:55:31 INFO:client 71f6e514082345449a5b838af27795d9 connected
+04:24:12 INFO:client 71f6e514082345449a5b838af27795d9 disconnected
+04:24:12 INFO:No more connections, scheduling shutdown
+04:24:12 INFO:127.0.0.1 [07/Sep/2023:13:55:31 +0000] "GET /ws HTTP/1.1" 101 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+11:33:55 INFO:Running IFC Voxelizer
+11:34:51 INFO:awaiting runner setup
+11:34:51 INFO:awaiting site startup
+11:34:51 INFO:Print WSLINK_READY_MSG
+11:34:51 INFO:Schedule auto shutdown with timout 0
+11:34:51 INFO:awaiting running future
+11:35:02 INFO:127.0.0.1 [08/Sep/2023:09:35:02 +0000] "GET /index.html?ui=P_0x1744a2c82e0_0&reconnect=auto HTTP/1.1" 200 236 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+11:35:02 INFO:127.0.0.1 [08/Sep/2023:09:35:02 +0000] "GET /vue.global.js HTTP/1.1" 200 253 "http://localhost:50846/index.html?ui=P_0x1744a2c82e0_0&reconnect=auto" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+11:35:02 INFO:127.0.0.1 [08/Sep/2023:09:35:02 +0000] "GET /css/app.0b077e70.css HTTP/1.1" 200 235 "http://localhost:50846/index.html?ui=P_0x1744a2c82e0_0&reconnect=auto" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+11:35:03 INFO:127.0.0.1 [08/Sep/2023:09:35:02 +0000] "GET /js/chunk-vendors.b42af71c.js HTTP/1.1" 200 253 "http://localhost:50846/index.html?ui=P_0x1744a2c82e0_0&reconnect=auto" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+11:35:03 INFO:127.0.0.1 [08/Sep/2023:09:35:03 +0000] "GET /js/app.93852572.js HTTP/1.1" 200 251 "http://localhost:50846/index.html?ui=P_0x1744a2c82e0_0&reconnect=auto" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+11:35:03 INFO:127.0.0.1 [08/Sep/2023:09:35:03 +0000] "POST /paraview/ HTTP/1.1" 405 208 "http://localhost:50846/index.html?ui=P_0x1744a2c82e0_0&reconnect=auto" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+11:35:03 INFO:client e89dac9ca2df411bba54697f4c4a7570 connected
+11:35:03 INFO:127.0.0.1 [08/Sep/2023:09:35:03 +0000] "GET /__trame_vuetify/trame-vuetify.css HTTP/1.1" 200 239 "http://localhost:50846/index.html?ui=P_0x1744a2c82e0_0&reconnect=auto" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+11:35:03 INFO:127.0.0.1 [08/Sep/2023:09:35:03 +0000] "GET /__trame_vuetify/trame-vuetify.umd.min.js HTTP/1.1" 200 253 "http://localhost:50846/index.html?ui=P_0x1744a2c82e0_0&reconnect=auto" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+11:35:04 INFO:127.0.0.1 [08/Sep/2023:09:35:03 +0000] "GET /__trame_vtk/trame-vtk.js HTTP/1.1" 200 255 "http://localhost:50846/index.html?ui=P_0x1744a2c82e0_0&reconnect=auto" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+11:35:05 INFO:127.0.0.1 [08/Sep/2023:09:35:05 +0000] "GET /__trame_vuetify/fonts/roboto-latin-400.1e2d4d3a.woff2 HTTP/1.1" 200 253 "http://localhost:50846/__trame_vuetify/trame-vuetify.css" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+11:35:05 INFO:127.0.0.1 [08/Sep/2023:09:35:05 +0000] "GET /__trame_vuetify/fonts/materialdesignicons-webfont.68358e87.woff2 HTTP/1.1" 200 255 "http://localhost:50846/__trame_vuetify/trame-vuetify.css" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+11:35:20 INFO:Running IFC Voxelizer
+11:36:09 INFO:awaiting runner setup
+11:36:09 INFO:awaiting site startup
+11:36:09 INFO:Print WSLINK_READY_MSG
+11:36:09 INFO:Schedule auto shutdown with timout 0
+11:36:09 INFO:awaiting running future
+11:36:10 INFO:127.0.0.1 [08/Sep/2023:09:36:10 +0000] "GET /index.html?ui=P_0x1acbd380760_0&reconnect=auto HTTP/1.1" 200 236 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+11:36:10 INFO:127.0.0.1 [08/Sep/2023:09:36:10 +0000] "GET /vue.global.js HTTP/1.1" 200 253 "http://localhost:50940/index.html?ui=P_0x1acbd380760_0&reconnect=auto" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+11:36:10 INFO:127.0.0.1 [08/Sep/2023:09:36:10 +0000] "GET /css/app.0b077e70.css HTTP/1.1" 200 235 "http://localhost:50940/index.html?ui=P_0x1acbd380760_0&reconnect=auto" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+11:36:10 INFO:127.0.0.1 [08/Sep/2023:09:36:10 +0000] "GET /js/chunk-vendors.b42af71c.js HTTP/1.1" 200 253 "http://localhost:50940/index.html?ui=P_0x1acbd380760_0&reconnect=auto" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+11:36:10 INFO:127.0.0.1 [08/Sep/2023:09:36:10 +0000] "GET /js/app.93852572.js HTTP/1.1" 200 251 "http://localhost:50940/index.html?ui=P_0x1acbd380760_0&reconnect=auto" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+11:36:10 INFO:127.0.0.1 [08/Sep/2023:09:36:10 +0000] "POST /paraview/ HTTP/1.1" 405 208 "http://localhost:50940/index.html?ui=P_0x1acbd380760_0&reconnect=auto" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+11:36:10 INFO:client f5cc259aafb240e7a8775c93b224d126 connected
+11:36:10 INFO:127.0.0.1 [08/Sep/2023:09:36:10 +0000] "GET /__trame_vuetify/trame-vuetify.css HTTP/1.1" 200 239 "http://localhost:50940/index.html?ui=P_0x1acbd380760_0&reconnect=auto" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+11:36:10 INFO:127.0.0.1 [08/Sep/2023:09:36:10 +0000] "GET /__trame_vuetify/trame-vuetify.umd.min.js HTTP/1.1" 200 253 "http://localhost:50940/index.html?ui=P_0x1acbd380760_0&reconnect=auto" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+11:36:10 INFO:127.0.0.1 [08/Sep/2023:09:36:10 +0000] "GET /__trame_vtk/trame-vtk.js HTTP/1.1" 200 255 "http://localhost:50940/index.html?ui=P_0x1acbd380760_0&reconnect=auto" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+11:36:11 INFO:127.0.0.1 [08/Sep/2023:09:36:11 +0000] "GET /__trame_vuetify/fonts/roboto-latin-400.1e2d4d3a.woff2 HTTP/1.1" 200 253 "http://localhost:50940/__trame_vuetify/trame-vuetify.css" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+11:36:11 INFO:127.0.0.1 [08/Sep/2023:09:36:11 +0000] "GET /__trame_vuetify/fonts/materialdesignicons-webfont.68358e87.woff2 HTTP/1.1" 200 255 "http://localhost:50940/__trame_vuetify/trame-vuetify.css" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+11:37:26 INFO:Running IFC Voxelizer
+11:38:24 INFO:awaiting runner setup
+11:38:24 INFO:awaiting site startup
+11:38:24 INFO:Print WSLINK_READY_MSG
+11:38:24 INFO:Schedule auto shutdown with timout 0
+11:38:24 INFO:awaiting running future
+11:38:24 INFO:127.0.0.1 [08/Sep/2023:09:38:24 +0000] "GET /index.html?ui=P_0x25507d47100_0&reconnect=auto HTTP/1.1" 200 236 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+11:38:24 INFO:127.0.0.1 [08/Sep/2023:09:38:24 +0000] "GET /vue.global.js HTTP/1.1" 200 253 "http://localhost:51105/index.html?ui=P_0x25507d47100_0&reconnect=auto" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+11:38:25 INFO:127.0.0.1 [08/Sep/2023:09:38:25 +0000] "GET /css/app.0b077e70.css HTTP/1.1" 200 235 "http://localhost:51105/index.html?ui=P_0x25507d47100_0&reconnect=auto" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+11:38:25 INFO:127.0.0.1 [08/Sep/2023:09:38:25 +0000] "GET /js/chunk-vendors.b42af71c.js HTTP/1.1" 200 253 "http://localhost:51105/index.html?ui=P_0x25507d47100_0&reconnect=auto" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+11:38:25 INFO:127.0.0.1 [08/Sep/2023:09:38:24 +0000] "GET /js/app.93852572.js HTTP/1.1" 200 251 "http://localhost:51105/index.html?ui=P_0x25507d47100_0&reconnect=auto" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+11:38:25 INFO:127.0.0.1 [08/Sep/2023:09:38:25 +0000] "POST /paraview/ HTTP/1.1" 405 208 "http://localhost:51105/index.html?ui=P_0x25507d47100_0&reconnect=auto" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+11:38:25 INFO:client 5b7af7d5861241ff8fed550fb17f6636 connected
+11:38:25 INFO:127.0.0.1 [08/Sep/2023:09:38:25 +0000] "GET /__trame_vuetify/trame-vuetify.css HTTP/1.1" 200 239 "http://localhost:51105/index.html?ui=P_0x25507d47100_0&reconnect=auto" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+11:38:25 INFO:127.0.0.1 [08/Sep/2023:09:38:25 +0000] "GET /__trame_vuetify/trame-vuetify.umd.min.js HTTP/1.1" 200 253 "http://localhost:51105/index.html?ui=P_0x25507d47100_0&reconnect=auto" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+11:38:25 INFO:127.0.0.1 [08/Sep/2023:09:38:25 +0000] "GET /__trame_vtk/trame-vtk.js HTTP/1.1" 200 255 "http://localhost:51105/index.html?ui=P_0x25507d47100_0&reconnect=auto" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+11:38:26 INFO:127.0.0.1 [08/Sep/2023:09:38:26 +0000] "GET /__trame_vuetify/fonts/roboto-latin-400.1e2d4d3a.woff2 HTTP/1.1" 200 253 "http://localhost:51105/__trame_vuetify/trame-vuetify.css" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+11:38:26 INFO:127.0.0.1 [08/Sep/2023:09:38:26 +0000] "GET /__trame_vuetify/fonts/materialdesignicons-webfont.68358e87.woff2 HTTP/1.1" 200 255 "http://localhost:51105/__trame_vuetify/trame-vuetify.css" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+11:44:33 INFO:Running IFC Voxelizer
+11:45:25 INFO:awaiting runner setup
+11:45:25 INFO:awaiting site startup
+11:45:25 INFO:Print WSLINK_READY_MSG
+11:45:25 INFO:Schedule auto shutdown with timout 0
+11:45:25 INFO:awaiting running future
+11:45:26 INFO:127.0.0.1 [08/Sep/2023:09:45:26 +0000] "GET /index.html?ui=P_0x1f6a2c16650_0&reconnect=auto HTTP/1.1" 200 236 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+11:45:26 INFO:127.0.0.1 [08/Sep/2023:09:45:26 +0000] "GET /vue.global.js HTTP/1.1" 200 253 "http://localhost:51278/index.html?ui=P_0x1f6a2c16650_0&reconnect=auto" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+11:45:26 INFO:127.0.0.1 [08/Sep/2023:09:45:26 +0000] "GET /css/app.0b077e70.css HTTP/1.1" 200 235 "http://localhost:51278/index.html?ui=P_0x1f6a2c16650_0&reconnect=auto" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+11:45:26 INFO:127.0.0.1 [08/Sep/2023:09:45:26 +0000] "GET /js/chunk-vendors.b42af71c.js HTTP/1.1" 200 253 "http://localhost:51278/index.html?ui=P_0x1f6a2c16650_0&reconnect=auto" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+11:45:26 INFO:127.0.0.1 [08/Sep/2023:09:45:26 +0000] "GET /js/app.93852572.js HTTP/1.1" 200 251 "http://localhost:51278/index.html?ui=P_0x1f6a2c16650_0&reconnect=auto" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+11:45:27 INFO:127.0.0.1 [08/Sep/2023:09:45:27 +0000] "POST /paraview/ HTTP/1.1" 405 208 "http://localhost:51278/index.html?ui=P_0x1f6a2c16650_0&reconnect=auto" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+11:45:27 INFO:client d71cc02386e54dd1b5ae7bd4892457b4 connected
+11:45:27 INFO:127.0.0.1 [08/Sep/2023:09:45:27 +0000] "GET /__trame_vuetify/trame-vuetify.css HTTP/1.1" 200 239 "http://localhost:51278/index.html?ui=P_0x1f6a2c16650_0&reconnect=auto" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+11:45:27 INFO:127.0.0.1 [08/Sep/2023:09:45:27 +0000] "GET /__trame_vuetify/trame-vuetify.umd.min.js HTTP/1.1" 200 253 "http://localhost:51278/index.html?ui=P_0x1f6a2c16650_0&reconnect=auto" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+11:45:27 INFO:127.0.0.1 [08/Sep/2023:09:45:27 +0000] "GET /__trame_vtk/trame-vtk.js HTTP/1.1" 200 255 "http://localhost:51278/index.html?ui=P_0x1f6a2c16650_0&reconnect=auto" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+11:45:28 INFO:127.0.0.1 [08/Sep/2023:09:45:28 +0000] "GET /__trame_vuetify/fonts/materialdesignicons-webfont.68358e87.woff2 HTTP/1.1" 200 255 "http://localhost:51278/__trame_vuetify/trame-vuetify.css" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+11:50:46 INFO:client d71cc02386e54dd1b5ae7bd4892457b4 disconnected
+11:50:46 INFO:No more connections, scheduling shutdown
+11:50:46 INFO:127.0.0.1 [08/Sep/2023:09:45:27 +0000] "GET /ws HTTP/1.1" 101 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+12:01:06 INFO:Running IFC Voxelizer
+12:03:00 INFO:Running IFC Voxelizer
+12:03:41 INFO:Running IFC Voxelizer
+12:04:38 INFO:awaiting runner setup
+12:04:38 INFO:awaiting site startup
+12:04:38 INFO:Print WSLINK_READY_MSG
+12:04:38 INFO:Schedule auto shutdown with timout 0
+12:04:38 INFO:awaiting running future
+12:04:39 INFO:127.0.0.1 [08/Sep/2023:10:04:39 +0000] "GET /index.html?ui=P_0x21858f825f0_0&reconnect=auto HTTP/1.1" 200 236 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+12:04:39 INFO:127.0.0.1 [08/Sep/2023:10:04:39 +0000] "GET /vue.global.js HTTP/1.1" 200 253 "http://localhost:51790/index.html?ui=P_0x21858f825f0_0&reconnect=auto" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+12:04:39 INFO:127.0.0.1 [08/Sep/2023:10:04:39 +0000] "GET /css/app.0b077e70.css HTTP/1.1" 200 235 "http://localhost:51790/index.html?ui=P_0x21858f825f0_0&reconnect=auto" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+12:04:39 INFO:127.0.0.1 [08/Sep/2023:10:04:39 +0000] "GET /js/chunk-vendors.b42af71c.js HTTP/1.1" 200 253 "http://localhost:51790/index.html?ui=P_0x21858f825f0_0&reconnect=auto" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+12:04:39 INFO:127.0.0.1 [08/Sep/2023:10:04:39 +0000] "GET /js/app.93852572.js HTTP/1.1" 200 251 "http://localhost:51790/index.html?ui=P_0x21858f825f0_0&reconnect=auto" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+12:04:39 INFO:127.0.0.1 [08/Sep/2023:10:04:39 +0000] "POST /paraview/ HTTP/1.1" 405 208 "http://localhost:51790/index.html?ui=P_0x21858f825f0_0&reconnect=auto" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+12:04:39 INFO:client be5213bec98c48e386514630e2a7a78d connected
+12:04:39 INFO:127.0.0.1 [08/Sep/2023:10:04:39 +0000] "GET /__trame_vuetify/trame-vuetify.css HTTP/1.1" 200 239 "http://localhost:51790/index.html?ui=P_0x21858f825f0_0&reconnect=auto" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+12:04:40 INFO:127.0.0.1 [08/Sep/2023:10:04:40 +0000] "GET /__trame_vuetify/trame-vuetify.umd.min.js HTTP/1.1" 200 253 "http://localhost:51790/index.html?ui=P_0x21858f825f0_0&reconnect=auto" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+12:04:40 INFO:127.0.0.1 [08/Sep/2023:10:04:40 +0000] "GET /__trame_vtk/trame-vtk.js HTTP/1.1" 200 255 "http://localhost:51790/index.html?ui=P_0x21858f825f0_0&reconnect=auto" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+12:04:40 INFO:127.0.0.1 [08/Sep/2023:10:04:40 +0000] "GET /__trame_vuetify/fonts/roboto-latin-400.1e2d4d3a.woff2 HTTP/1.1" 200 253 "http://localhost:51790/__trame_vuetify/trame-vuetify.css" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+12:04:40 INFO:127.0.0.1 [08/Sep/2023:10:04:40 +0000] "GET /__trame_vuetify/fonts/materialdesignicons-webfont.68358e87.woff2 HTTP/1.1" 200 255 "http://localhost:51790/__trame_vuetify/trame-vuetify.css" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+12:05:58 INFO:client be5213bec98c48e386514630e2a7a78d disconnected
+12:05:58 INFO:No more connections, scheduling shutdown
+12:05:58 INFO:127.0.0.1 [08/Sep/2023:10:04:39 +0000] "GET /ws HTTP/1.1" 101 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+12:06:08 INFO:127.0.0.1 [08/Sep/2023:10:06:08 +0000] "GET /index.html?ui=P_0x2185b1d49a0_1&reconnect=auto HTTP/1.1" 200 236 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+12:06:08 INFO:127.0.0.1 [08/Sep/2023:10:06:08 +0000] "POST /paraview/ HTTP/1.1" 405 208 "http://localhost:51790/index.html?ui=P_0x2185b1d49a0_1&reconnect=auto" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+12:06:08 INFO:client 31f382ff07074152b7e404f90c0c7ecc connected
+12:07:03 INFO:client 31f382ff07074152b7e404f90c0c7ecc disconnected
+12:07:03 INFO:No more connections, scheduling shutdown
+12:07:03 INFO:127.0.0.1 [08/Sep/2023:10:06:08 +0000] "GET /ws HTTP/1.1" 101 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+12:07:04 INFO:127.0.0.1 [08/Sep/2023:10:07:04 +0000] "GET /index.html?ui=P_0x2186042b760_2&reconnect=auto HTTP/1.1" 200 236 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+12:07:04 INFO:127.0.0.1 [08/Sep/2023:10:07:04 +0000] "POST /paraview/ HTTP/1.1" 405 208 "http://localhost:51790/index.html?ui=P_0x2186042b760_2&reconnect=auto" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+12:07:04 INFO:client b5029f6cadf842cfac739875c2278c5f connected
+12:07:38 INFO:client b5029f6cadf842cfac739875c2278c5f disconnected
+12:07:38 INFO:No more connections, scheduling shutdown
+12:07:38 INFO:127.0.0.1 [08/Sep/2023:10:07:04 +0000] "GET /ws HTTP/1.1" 101 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+12:07:38 INFO:127.0.0.1 [08/Sep/2023:10:07:38 +0000] "GET /index.html?ui=P_0x2185b1d7280_3&reconnect=auto HTTP/1.1" 200 236 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+12:07:38 INFO:127.0.0.1 [08/Sep/2023:10:07:38 +0000] "POST /paraview/ HTTP/1.1" 405 208 "http://localhost:51790/index.html?ui=P_0x2185b1d7280_3&reconnect=auto" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+12:07:39 INFO:client 679cacfc5bf34619bdbb98a2e5681caf connected
+12:09:21 INFO:client 679cacfc5bf34619bdbb98a2e5681caf disconnected
+12:09:21 INFO:No more connections, scheduling shutdown
+12:09:21 INFO:127.0.0.1 [08/Sep/2023:10:07:39 +0000] "GET /ws HTTP/1.1" 101 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+12:13:51 INFO:Running IFC Voxelizer
+12:15:23 INFO:Running IFC Voxelizer
+12:16:46 INFO:awaiting runner setup
+12:16:46 INFO:awaiting site startup
+12:16:46 INFO:Print WSLINK_READY_MSG
+12:16:46 INFO:Schedule auto shutdown with timout 0
+12:16:46 INFO:awaiting running future
+12:16:47 INFO:127.0.0.1 [08/Sep/2023:10:16:47 +0000] "GET /index.html?ui=P_0x19590db36a0_1&reconnect=auto HTTP/1.1" 200 236 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+12:16:47 INFO:127.0.0.1 [08/Sep/2023:10:16:47 +0000] "GET /vue.global.js HTTP/1.1" 200 253 "http://localhost:52221/index.html?ui=P_0x19590db36a0_1&reconnect=auto" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+12:16:47 INFO:127.0.0.1 [08/Sep/2023:10:16:47 +0000] "GET /css/app.0b077e70.css HTTP/1.1" 200 235 "http://localhost:52221/index.html?ui=P_0x19590db36a0_1&reconnect=auto" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+12:16:47 INFO:127.0.0.1 [08/Sep/2023:10:16:47 +0000] "GET /js/chunk-vendors.b42af71c.js HTTP/1.1" 200 253 "http://localhost:52221/index.html?ui=P_0x19590db36a0_1&reconnect=auto" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+12:16:47 INFO:127.0.0.1 [08/Sep/2023:10:16:47 +0000] "GET /js/app.93852572.js HTTP/1.1" 200 251 "http://localhost:52221/index.html?ui=P_0x19590db36a0_1&reconnect=auto" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+12:16:47 INFO:127.0.0.1 [08/Sep/2023:10:16:47 +0000] "POST /paraview/ HTTP/1.1" 405 208 "http://localhost:52221/index.html?ui=P_0x19590db36a0_1&reconnect=auto" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+12:16:47 INFO:client 53d19ba6438748d49a7f3e326475d46e connected
+12:16:47 INFO:127.0.0.1 [08/Sep/2023:10:16:47 +0000] "GET /__trame_vuetify/trame-vuetify.css HTTP/1.1" 200 239 "http://localhost:52221/index.html?ui=P_0x19590db36a0_1&reconnect=auto" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+12:16:48 INFO:127.0.0.1 [08/Sep/2023:10:16:47 +0000] "GET /__trame_vuetify/trame-vuetify.umd.min.js HTTP/1.1" 200 253 "http://localhost:52221/index.html?ui=P_0x19590db36a0_1&reconnect=auto" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+12:16:48 INFO:127.0.0.1 [08/Sep/2023:10:16:47 +0000] "GET /__trame_vtk/trame-vtk.js HTTP/1.1" 200 255 "http://localhost:52221/index.html?ui=P_0x19590db36a0_1&reconnect=auto" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+12:16:48 INFO:127.0.0.1 [08/Sep/2023:10:16:48 +0000] "GET /__trame_vuetify/fonts/roboto-latin-400.1e2d4d3a.woff2 HTTP/1.1" 200 253 "http://localhost:52221/__trame_vuetify/trame-vuetify.css" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+12:16:48 INFO:127.0.0.1 [08/Sep/2023:10:16:48 +0000] "GET /__trame_vuetify/fonts/materialdesignicons-webfont.68358e87.woff2 HTTP/1.1" 200 255 "http://localhost:52221/__trame_vuetify/trame-vuetify.css" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+12:18:25 INFO:client 53d19ba6438748d49a7f3e326475d46e disconnected
+12:18:25 INFO:No more connections, scheduling shutdown
+12:18:25 INFO:127.0.0.1 [08/Sep/2023:10:16:47 +0000] "GET /ws HTTP/1.1" 101 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+12:18:25 INFO:127.0.0.1 [08/Sep/2023:10:18:25 +0000] "GET /index.html?ui=P_0x1958ec54400_2&reconnect=auto HTTP/1.1" 200 236 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+12:18:25 INFO:127.0.0.1 [08/Sep/2023:10:18:25 +0000] "POST /paraview/ HTTP/1.1" 405 208 "http://localhost:52221/index.html?ui=P_0x1958ec54400_2&reconnect=auto" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+12:18:25 INFO:client f578e628bf9044b79afe199ee1b589f2 connected
+12:21:07 INFO:Running IFC Voxelizer
+12:22:05 INFO:awaiting runner setup
+12:22:05 INFO:awaiting site startup
+12:22:05 INFO:Print WSLINK_READY_MSG
+12:22:05 INFO:Schedule auto shutdown with timout 0
+12:22:05 INFO:awaiting running future
+12:22:06 INFO:127.0.0.1 [08/Sep/2023:10:22:06 +0000] "GET /index.html?ui=P_0x1cc31ec5c30_0&reconnect=auto HTTP/1.1" 200 236 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+12:22:06 INFO:127.0.0.1 [08/Sep/2023:10:22:06 +0000] "GET /vue.global.js HTTP/1.1" 200 253 "http://localhost:52386/index.html?ui=P_0x1cc31ec5c30_0&reconnect=auto" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+12:22:06 INFO:127.0.0.1 [08/Sep/2023:10:22:06 +0000] "GET /css/app.0b077e70.css HTTP/1.1" 200 235 "http://localhost:52386/index.html?ui=P_0x1cc31ec5c30_0&reconnect=auto" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+12:22:06 INFO:127.0.0.1 [08/Sep/2023:10:22:06 +0000] "GET /js/chunk-vendors.b42af71c.js HTTP/1.1" 200 253 "http://localhost:52386/index.html?ui=P_0x1cc31ec5c30_0&reconnect=auto" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+12:22:06 INFO:127.0.0.1 [08/Sep/2023:10:22:06 +0000] "GET /js/app.93852572.js HTTP/1.1" 200 251 "http://localhost:52386/index.html?ui=P_0x1cc31ec5c30_0&reconnect=auto" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+12:22:06 INFO:127.0.0.1 [08/Sep/2023:10:22:06 +0000] "POST /paraview/ HTTP/1.1" 405 208 "http://localhost:52386/index.html?ui=P_0x1cc31ec5c30_0&reconnect=auto" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+12:22:06 INFO:client ceb815eb89a44855989265252f47f7d0 connected
+12:22:06 INFO:127.0.0.1 [08/Sep/2023:10:22:06 +0000] "GET /__trame_vuetify/trame-vuetify.css HTTP/1.1" 200 239 "http://localhost:52386/index.html?ui=P_0x1cc31ec5c30_0&reconnect=auto" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+12:22:06 INFO:127.0.0.1 [08/Sep/2023:10:22:06 +0000] "GET /__trame_vuetify/trame-vuetify.umd.min.js HTTP/1.1" 200 253 "http://localhost:52386/index.html?ui=P_0x1cc31ec5c30_0&reconnect=auto" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+12:22:06 INFO:127.0.0.1 [08/Sep/2023:10:22:06 +0000] "GET /__trame_vtk/trame-vtk.js HTTP/1.1" 200 255 "http://localhost:52386/index.html?ui=P_0x1cc31ec5c30_0&reconnect=auto" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+12:22:07 INFO:127.0.0.1 [08/Sep/2023:10:22:07 +0000] "GET /__trame_vuetify/fonts/roboto-latin-400.1e2d4d3a.woff2 HTTP/1.1" 200 253 "http://localhost:52386/__trame_vuetify/trame-vuetify.css" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
+12:22:07 INFO:127.0.0.1 [08/Sep/2023:10:22:07 +0000] "GET /__trame_vuetify/fonts/materialdesignicons-webfont.68358e87.woff2 HTTP/1.1" 200 255 "http://localhost:52386/__trame_vuetify/trame-vuetify.css" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.81.1 Chrome/108.0.5359.215 Electron/22.3.18 Safari/537.36"
