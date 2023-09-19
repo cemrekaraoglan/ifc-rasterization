@@ -76,6 +76,7 @@ jupyterlab_server==2.24.0
 kiwisolver==1.4.4
 lark==1.1.7
 linkify-it-py==2.0.2
+Mako==1.2.4
 Markdown==3.4.4
 markdown-it-py==3.0.0
 MarkupSafe==2.1.3
@@ -115,11 +116,13 @@ PyContracts==1.8.12
 pycparser==2.21
 pyct==0.5.0
 Pygments==2.15.1
+pyopencl==2023.1.2
 pyparsing==3.0.9
 pyreadline3==3.4.1
 python-dateutil==2.8.2
 python-json-logger==2.0.7
 pythreejs==2.4.2
+pytools==2023.1.1
 pytz==2023.3
 pyvista==0.41.1
 pyviz-comms==2.3.2
@@ -138,9 +141,11 @@ scooby==0.7.2
 Send2Trash==1.8.2
 simpervisor==1.0.0
 six==1.16.0
+snakeviz==2.2.0
 sniffio==1.3.0
 soupsieve==2.4.1
 stack-data==0.6.2
+style==1.1.0
 tenacity==8.2.3
 terminado==0.17.1
 tinycss2==1.2.1
@@ -157,6 +162,7 @@ trame-vuetify==2.3.1
 typing_extensions==4.7.1
 tzdata==2023.3
 uc-micro-py==1.0.2
+update==0.0.1
 uri-template==1.3.0
 urllib3==2.0.4
 vtk==9.2.6
