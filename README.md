@@ -2,6 +2,23 @@
 
 This script provides a way to convert IFC (Industry Foundation Classes) files into 3D meshes using Open3D and PyVista. It also allows for the analysis of the generated meshes, such as calculating the volume of concrete elements.
 
+This code provides a solution to address the efficiency and scalability challenges faced by the Architecture, Engineering, and Construction (AEC) industry when working with large Building Information Modelling (BIM) models. The primary objectives of the code are:
+
+- Conversion of IFC Models to 3D Meshes: The code utilizes libraries such as Open3D and PyVista to convert Industry Foundation Classes (IFC) files into 3D meshes. This conversion facilitates easier and faster geometric processing and analysis.
+
+- Point Cloud Generation: By transforming the 3D meshes into point clouds, the code offers a more efficient representation of the model's geometry, which can be crucial for various analyses.
+
+- Rasterization: The code creates a 3D grid to check intersections of the meshes with the grid. This is essential for ensuring accurate geometric representation and for tasks like collision detection.
+
+- Optimization of Grid Size: The code determines the optimal grid size for representing the IFC model geometry. This ensures that the model's complex geometries are accurately represented, avoiding issues like broken geometries and inaccurate model checking.
+
+- Building Element Analysis: Currently, the code fetches concrete elements from the IFC file and calculates their volume, aiding in tasks like Quantity Take-Off (QTO). Under development for further implementations.
+
+- Visualization: The code provides a visualization of the point cloud and the 3D grid, allowing users to visually inspect and verify the processed model.
+
+In essence, this code offers a computational solution to efficiently process, analyze, and visualize large BIM models, addressing the challenges of reliability, performance bottlenecks, and grid size optimization. This contributes to the broader goal of enhancing the utilization of BIM models in the AEC industry.
+
+
 ## Dependencies
 
 - `pyvista`
