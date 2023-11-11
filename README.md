@@ -1,8 +1,8 @@
 # IFC to 3D Mesh Conversion and Analysis
 
-This script provides a way to convert IFC (Industry Foundation Classes) files into 3D meshes using Open3D and PyVista. It also allows for the analysis of the generated meshes, such as calculating the volume of concrete elements.
+This project involves processing IFC (Industry Foundation Classes) files to extract geometric data, create point clouds, and perform rasterization for  and analysis purposes. The code is written in Python and utilizes several libraries including `pyvista`, `numpy`, `open3d`, `ifcopenshell`, and others.
 
-This code provides a solution to address the efficiency and scalability challenges faced by the Architecture, Engineering, and Construction (AEC) industry when working with large Building Information Modelling (BIM) models. The primary objectives of the code are:
+I aims to provide a solution to address the efficiency and scalability challenges faced by the Architecture, Engineering, and Construction (AEC) industry when working with large Building Information Modelling (BIM) models. The primary objectives of the code are:
 
 - Conversion of IFC Models to 3D Meshes: The code utilizes libraries such as Open3D and PyVista to convert Industry Foundation Classes (IFC) files into 3D meshes. This conversion facilitates easier and faster geometric processing and analysis.
 
@@ -26,7 +26,8 @@ In essence, this code offers a computational solution to efficiently process, an
 - `multiprocessing`
 - `ifcopenshell`
 - `open3d`
-- `functools`
+- `pandas`
+
 
 ## Overview
 
@@ -37,7 +38,11 @@ The script performs the following operations:
 3. **Point Cloud Creation**: Generates a point cloud from the 3D meshes.
 4. **Rasterization**: Creates a 3D grid and checks the intersections of the meshes with the grid.
 5. **Visualization**: Visualizes the point cloud and the 3D grid using PyVista.
-6. **Concrete Element Analysis**: Fetches concrete elements from the IFC file and calculates their volume.
+6. **Room Detection**: The function `find_rooms` identifies enclosed spaces within the IFC file based on the processed grid.
+7. **Parameter Tuning**: The script allows for tuning parameters like cell sizes for different levels of detail in processing.
+8. **Quantitative Analysis**: The function `fetch_element_quantities` extracts the number of the cells with the same attributes from the IFC file for further analysis.
+9. **Batch Processing**: The script can process multiple IFC files in a directory and output results in a structured format.
+
 
 ## Functions
 
@@ -47,7 +52,7 @@ The script performs the following operations:
 - `voxelize_space(bounds, element_information, pcd_list, voxel_size)`: Creates a 3D grid and checks the intersections of the meshes with the grid.
 - `get_sampling_points(mesh, voxel_size, points_per_unit_area=120)`: Calculates the number of points to sample based on the mesh size.
 - `create_point_cloud(all_meshes, voxel_size)`: Creates a point cloud from a mesh.
-- `fetch_concrete_elements(ifc_file)`: Fetches concrete elements from the IFC file.
+
 
 ## Usage
 
@@ -55,6 +60,15 @@ The script performs the following operations:
 2. Update the path to the desired IFC file in the script.
 3. Run the script to generate the 3D meshes, point cloud, and perform the analysis.
 
+
 ## Output
 
 The script will display the visualization of the point cloud and the 3D grid. It will also print the total volume of concrete elements in the IFC file.
+
+
+## Example
+
+```python
+file_name = "IFC Files/02_Duplex.ifc"
+results1, results2, grid = process_ifc_file(file_name, x_size=0.1, y_size=0.1, z_size=0.1)
+grid_with_rooms = find_rooms(grid, file_name)
