@@ -2,21 +2,21 @@
 
 This project involves processing IFC (Industry Foundation Classes) files to extract geometric data, create point clouds, and perform rasterization for  and analysis purposes. The code is written in Python and utilizes several libraries including `pyvista`, `numpy`, `open3d`, `ifcopenshell`, and others.
 
-I aims to provide a solution to address the efficiency and scalability challenges faced by the Architecture, Engineering, and Construction (AEC) industry when working with large Building Information Modelling (BIM) models. The primary objectives of the code are:
+The algorithm aims to provide a solution to address the efficiency and scalability challenges faced by the Architecture, Engineering, and Construction (AEC) industry when working with large Building Information Modelling (BIM) models. The primary objectives of the code are:
 
-- Conversion of IFC Models to 3D Meshes: The code utilizes libraries such as Open3D and PyVista to convert Industry Foundation Classes (IFC) files into 3D meshes. This conversion facilitates easier and faster geometric processing and analysis.
+- Conversion of IFC Models to 3D Meshes: Utilizes libraries such as Open3D and PyVista to convert Industry Foundation Classes (IFC) files into 3D meshes. This conversion facilitates easier and faster geometric processing and analysis.
 
-- Point Cloud Generation: By transforming the 3D meshes into point clouds, the code offers a more efficient representation of the model's geometry, which can be crucial for various analyses.
+- Point Cloud Generation: Transforming the 3D meshes into point clouds, offers a more efficient representation of the model's geometry, which can be crucial for various analyses.
 
-- Rasterization: The code creates a 3D grid to check intersections of the meshes with the grid. This is essential for ensuring accurate geometric representation and for tasks like collision detection.
+- Rasterization: Creates a 3D grid to check intersections of the meshes with the grid. This is essential for ensuring accurate geometric representation and for tasks like collision detection.
 
-- Optimization of Grid Size: The code determines the optimal grid size for representing the IFC model geometry. This ensures that the model's complex geometries are accurately represented, avoiding issues like broken geometries and inaccurate model checking.
+- Optimization of Grid Size: Determines the optimal grid size for representing the IFC model geometry. This ensures that the model's complex geometries are accurately represented, avoiding issues like broken geometries and inaccurate model checking.
 
-- Building Element Analysis: Currently, the code fetches concrete elements from the IFC file and calculates their volume, aiding in tasks like Quantity Take-Off (QTO). Under development for further implementations.
+- Building Element Analysis: Currently, it fetches concrete elements from the IFC file and calculates their volume, aiding in tasks like Quantity Take-Off (QTO). Under development for further implementations.
 
 - Visualization: The code provides a visualization of the point cloud and the 3D grid, allowing users to visually inspect and verify the processed model.
 
-In essence, this code offers a computational solution to efficiently process, analyze, and visualize large BIM models, addressing the challenges of reliability, performance bottlenecks, and grid size optimization. This contributes to the broader goal of enhancing the utilization of BIM models in the AEC industry.
+In essence, this study offers a computational solution to efficiently process, analyze, and visualize large BIM models, addressing the challenges of reliability, performance bottlenecks, and grid size optimization. This contributes to the broader goal of enhancing the utilization of BIM models in the AEC industry.
 
 
 ## Dependencies
@@ -39,9 +39,9 @@ The script performs the following operations:
 4. **Rasterization**: Creates a 3D grid and checks the intersections of the meshes with the grid.
 5. **Visualization**: Visualizes the point cloud and the 3D grid using PyVista.
 6. **Room Detection**: The function `find_rooms` identifies enclosed spaces within the IFC file based on the processed grid.
-7. **Parameter Tuning**: The script allows for tuning parameters like cell sizes for different levels of detail in processing.
-8. **Quantitative Analysis**: The function `fetch_element_quantities` extracts the number of the cells with the same attributes from the IFC file for further analysis.
-9. **Batch Processing**: The script can process multiple IFC files in a directory and output results in a structured format.
+7. **Parameter Tuning**: Allows for tuning parameters like cell sizes for different levels of detail in processing.
+8. **Quantitative Analysis**: The function `fetch_element_quantities` extracts the number of cells with the same attributes from the IFC file for further analysis.
+9. **Batch Processing**: Processes multiple IFC files in a directory and outputs results in a structured format.
 
 
 ## Functions
@@ -58,7 +58,7 @@ The script performs the following operations:
 
 1. Ensure you have all the required dependencies installed.
 2. Update the path to the desired IFC file in the script.
-3. Run the script to generate the 3D meshes, point cloud, and perform the analysis.
+3. Run the script to generate the 3D meshes, and point cloud, and perform the analysis.
 
 
 ## Output
