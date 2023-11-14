@@ -63,7 +63,7 @@ The script performs the following operations:
 
 ## Output
 
-The script will display the visualization of the point cloud and the 3D grid. It will also print the total volume of concrete elements in the IFC file.
+The script will save the screenshots of the rasterized IFC models. It will also output an Excel file with the number of cells with the same attributes and save a screenshot of the rooms created in the model.
 
 
 ## Example
