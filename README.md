@@ -1,8 +1,8 @@
 # IFC to 3D Mesh Conversion and Analysis
 
-This project involves processing IFC (Industry Foundation Classes) files to extract geometric data, create point clouds, and perform rasterization for  and analysis purposes. The code is written in Python and utilizes several libraries including `pyvista`, `numpy`, `open3d`, `ifcopenshell`, and others.
+This project involves processing IFC (Industry Foundation Classes) files to extract geometric data, create point clouds, and perform rasterization for analysis purposes. The code is written in Python and utilizes several libraries including `pyvista`, `numpy`, `open3d`, `ifcopenshell`, and others.
 
-The algorithm aims to provide a solution to address the efficiency and scalability challenges faced by the Architecture, Engineering, and Construction (AEC) industry when working with large Building Information Modelling (BIM) models. The primary objectives of the code are:
+The algorithm aims to provide a solution to address the efficiency and scalability challenges faced by the Architecture, Engineering, and Construction (AEC) industry when working with large or broken Building Information Modelling (BIM) models missing the required semantic data. The primary objectives of the code are:
 
 - Conversion of IFC Models to 3D Meshes: Utilizes libraries such as Open3D and PyVista to convert Industry Foundation Classes (IFC) files into 3D meshes. This conversion facilitates easier and faster geometric processing and analysis.
 
@@ -16,7 +16,7 @@ The algorithm aims to provide a solution to address the efficiency and scalabili
 
 - Visualization: The code provides a visualization of the point cloud and the 3D grid, allowing users to visually inspect and verify the processed model.
 
-In essence, this study offers a computational solution to efficiently process, analyze, and visualize large BIM models, addressing the challenges of reliability, performance bottlenecks, and grid size optimization. This contributes to the broader goal of enhancing the utilization of BIM models in the AEC industry.
+In essence, this study offers a computational solution to efficiently process, analyze, and visualize large BIM models, addressing the challenges of reliability, performance bottlenecks, and grid size optimization. This contributes to the broader goal of enhancing the utilization of IFC models in the AEC industry.
 
 
 ## Dependencies
